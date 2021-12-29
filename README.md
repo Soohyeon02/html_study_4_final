@@ -17,4 +17,10 @@
 - 위와 같은 상황을 해결하기 위해 <meta name="viewport" content="width=divice-width, initial-scale=1.0">
 를 사용하여 pc와 모바일 화면을 통일해준다.
 
+
+
+인프런을 이용하여 기본적인 html 개념 익히기는 끝이 났다.
+이제 디자인을 위한 css 를 공부할 것이다.
+화이팅👍
+
 **2021.12.29.**
